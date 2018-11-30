@@ -26,7 +26,7 @@ $ conda install cookiecutter
 ### To start a new project, run:
 ------------
 
-    cookiecutter https://github.com/drivendata/cookiecutter-data-science
+    cookiecutter https://github.com/AgriculturalModelExchangeInitiative/cookiecutter-crop2ml
 
 
 [![asciicast](https://github.com/AgriculturalModelExchangeInitiative/Crop2ML/blob/master/doc/images/cookiecutter.png)](https://github.com/AgriculturalModelExchangeInitiative/Crop2ML/blob/master/doc/images/cookiecutter.png)
@@ -40,21 +40,21 @@ The directory structure of your new project looks like this:
 ```
 ├── LICENSE
 ├── Makefile           <- Makefile with commands like `make data` or `make train`
-├── README.md          <- The top-level README for developers using this project.
+├── README.md          <- The top-level README for AMEI members using this project.
 ├── data
 │
-├── docs               <- A default Sphinx project; see sphinx-doc.org for details
+├── doc               <- A default Sphinx project; see sphinx-doc.org for details
 │
 ├── tests             <- model tests
 │
-├── crop2ml          <- model units and composite.
+├── crop2ml          <- model units and composite in crop2ml format.
 │
 |
 │
-├── src                <- Source code for use in this project.
+├── src                <- Source code for the algorithm part of the model in different languages
 │   ├── cython
 │   │
-│   ├── 
+│   ├── python
 ```
 
 ## Contributing
