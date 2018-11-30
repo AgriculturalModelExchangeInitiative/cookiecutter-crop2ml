@@ -3,7 +3,7 @@
 _A logical, reasonably standardized, but flexible project structure for sharing crop models components between crops modelling platform._
 
 
-#### [Project homepage](https://github.com/AgriculturalModelExchangeInitiative/PyCrop2ML/)
+#### [Project homepage](https://github.com/AgriculturalModelExchangeInitiative/Crop2ML/)
 
 
 ### Requirements to use the cookiecutter template:
