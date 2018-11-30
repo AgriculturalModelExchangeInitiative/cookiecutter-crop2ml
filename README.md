@@ -29,7 +29,7 @@ $ conda install cookiecutter
     cookiecutter https://github.com/drivendata/cookiecutter-data-science
 
 
-[![asciicast](https://asciinema.org/a/9bgl5qh17wlop4xyxu9n9wr02.png)](https://asciinema.org/a/9bgl5qh17wlop4xyxu9n9wr02)
+[![asciicast](https://github.com/AgriculturalModelExchangeInitiative/Crop2ML/blob/master/doc/images/cookiecutter.png)](https://github.com/AgriculturalModelExchangeInitiative/Crop2ML/blob/master/doc/images/cookiecutter.png)
 
 
 ### The resulting directory structure
