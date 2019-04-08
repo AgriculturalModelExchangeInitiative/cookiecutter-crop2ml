@@ -18,7 +18,7 @@ Project Organization
     │
     ├── crop2ml/          <- model units and composite in crop2ml format.
     │      ├── xml files
-    │      ├── Algo/
+    │      ├── Algo/      <- in different languages
     |
     │
     ├── src/                <- Executable source in different language and platform
