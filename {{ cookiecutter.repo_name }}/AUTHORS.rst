@@ -2,22 +2,12 @@
 Credits
 =======
 
-**1. Development Lead**
+Development Lead
+----------------
 
+* {{ cookiecutter.author_name }} 
 
-.. {# pkglts, doc.authors
-
-* Cyrille Ahmed Midingoyi, <cyrille.midingoyi@inra.fr>
-
-* Christophe Pradal, <christophe.pradal@cirad.fr>
-
-.. #}
-
-**2. Contributors**
-
-
-.. {# pkglts, doc.contributors
+Contributors
+------------
 
 None yet. Why not be the first?
-
-.. #}
